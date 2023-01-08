@@ -1,7 +1,7 @@
 # hello-world
 
-## 日付
+## Creation Date
 2022/12/22
 
-## ペットの紹介
-私が飼っている二匹の猫について紹介します．
+## Introduction of Pets
+I would like to introduce my two cats.
